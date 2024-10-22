@@ -1,4 +1,4 @@
-Double of num
+//Double of num
 #include <stdio.h>
 void main()
 { int num;
