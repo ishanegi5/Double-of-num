@@ -1,0 +1,8 @@
+Double of num
+#include <stdio.h>
+void main()
+{ int num;
+    printf("Enter any number: ");
+    scanf("%d",&num);
+    printf("double of num %d is %d ",num,num*2);
+}
